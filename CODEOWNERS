@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @hagmanuyanga-creator
+/src/backend/database.py      @hagmanuyanga-creator
+/src/backend/routers/auth.py  @hagmanuyanga-creator
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @hagmanuyanga-creator
